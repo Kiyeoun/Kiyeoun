@@ -13,7 +13,6 @@
 
 ## 📊 Baekjoon Problem-Solving Status
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pet0727)
-
 ![Baekjoon Heatmap](http://mazandi.herokuapp.com/api?handle=pet0727&theme=dark)
 
 ---
