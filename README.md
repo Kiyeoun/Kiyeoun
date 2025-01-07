@@ -13,7 +13,7 @@
 
 ## 📊 Baekjoon Problem-Solving Status
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pet0727)
-![Baekjoon Heatmap](http://mazandi.herokuapp.com/api?handle=your_baekjoon_id&theme=dark)
+![Baekjoon Heatmap](http://mazandi.herokuapp.com/api?handle=pet0727&theme=dark)
 
 ---
 
@@ -31,5 +31,5 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Kiyeoun=Kiyeoun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kiyeoun=Kiyeoun&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiyeoun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyeoun&layout=compact&theme=radical)
